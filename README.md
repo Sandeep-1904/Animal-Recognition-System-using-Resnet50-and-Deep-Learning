@@ -1,16 +1,5 @@
 
----
-title: Deep Learning Based Animal Recognition System
-emoji: 🐾
-colorFrom: green
-colorTo: blue
-sdk: gradio
-sdk_version: 5.50.0
-python_version: 3.10
-app_file: app.py
-license: mit
-suggested_hardware: zero-a10g
----
+
 
 # 🐾 Deep Learning Based Animal Recognition System
 
@@ -84,3 +73,27 @@ Select:
 This project is licensed under the MIT License.
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+
+
+---
+title: Deep Learning Based Animal Recognition System
+
+emoji: 🐾
+
+colorFrom: green
+
+colorTo: blue
+
+sdk: gradio
+
+sdk_version: 5.50.0
+
+python_version: 3.10
+
+app_file: app.py
+
+license: mit
+
+suggested_hardware: zero-a10g
+---
