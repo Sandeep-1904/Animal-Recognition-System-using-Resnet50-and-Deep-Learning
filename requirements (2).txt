@@ -1,0 +1,9 @@
+spaces
+torch
+gradio
+transformers
+Pillow
+numpy
+matplotlib
+seaborn
+scikit-learn
